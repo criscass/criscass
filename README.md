@@ -1,5 +1,6 @@
 <h1>Cristian Cassetta</h1>
 <h3>Frontend Web Developer</h3>
+<img align='right' src="https://github.com/criscass/criscass/blob/main/cris-img.jpg" width="230">
 
 
 
