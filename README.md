@@ -1,4 +1,4 @@
-<img src="https://github.com/criscass/criscass/blob/main/github-banner.jpg" width="1000">
+<img src="https://github.com/criscass/criscass/blob/main/github-banner2.jpg" width="1000">
 
 
 
