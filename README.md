@@ -9,4 +9,5 @@ Over the past four years, I've learned and practiced a variety of technologies, 
 including HTML, CSS, JavaScript (and TypeScript), React, Svelte, Astro.js, SQL, Python, and Git.\
 I've built several websites and apps and thoroughly enjoy designing and coding ideas, bringing them to life on the web.
 
-[cristiancassetta.dev](https://www.cristiancassetta.dev/)
+Check out my portfolio at [cristiancassetta.dev](https://www.cristiancassetta.dev/)
+Or even my personal [blog](https://www.cassettas-reboot.xyz/en)
